@@ -10,7 +10,7 @@ namespace PoBot
     {
         private static void Main(string[] args)
         {
-            string test = "";
+            string test = "x<wx<w";
         }
     }
 }
